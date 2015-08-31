@@ -1,0 +1,53 @@
+.date_head{
+	font-size:12px;
+	color:#390
+}
+
+.blue_text{
+	color:#36F
+}
+
+li{
+	list-style:none;
+	float:left
+}
+
+.float-left{
+	float:left
+}
+
+.details{
+	color:#06F;	
+}
+
+.soft_icon_div{
+	width:140px;
+	height:140px;
+	margin:10px;
+	padding:0;	
+}
+
+.soft_icon_div a{
+	text-decoration:none;
+}
+
+.soft_icon_png{	
+    width:100px;
+	height:100px;
+	margin:0 auto;
+	
+}
+
+.soft_icon_title{
+	font-size:12px;
+	text-decoration:none;
+}
+
+.site-footer1{
+	float:none
+}
+
+.margin-top-150px{
+	margin-top:280px;
+}
+
