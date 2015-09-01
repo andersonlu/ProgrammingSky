@@ -1,1 +1,1 @@
-# luxueyan.github.com
+# luxueyan.com
