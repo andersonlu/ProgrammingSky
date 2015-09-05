@@ -38,6 +38,10 @@ li{
 	
 }
 
+a{
+	text-decoration:none;
+}
+
 .soft_icon_title{
 	font-size:12px;
 	text-decoration:none;
